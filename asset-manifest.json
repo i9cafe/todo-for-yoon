@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/todo-for-yoon/static/css/main.1d449fb4.chunk.css",
+    "main.js": "/todo-for-yoon/static/js/main.385d821a.chunk.js",
+    "main.js.map": "/todo-for-yoon/static/js/main.385d821a.chunk.js.map",
+    "runtime-main.js": "/todo-for-yoon/static/js/runtime-main.50283845.js",
+    "runtime-main.js.map": "/todo-for-yoon/static/js/runtime-main.50283845.js.map",
+    "static/js/2.a6ba30e3.chunk.js": "/todo-for-yoon/static/js/2.a6ba30e3.chunk.js",
+    "static/js/2.a6ba30e3.chunk.js.map": "/todo-for-yoon/static/js/2.a6ba30e3.chunk.js.map",
+    "static/js/3.07a96a6c.chunk.js": "/todo-for-yoon/static/js/3.07a96a6c.chunk.js",
+    "static/js/3.07a96a6c.chunk.js.map": "/todo-for-yoon/static/js/3.07a96a6c.chunk.js.map",
+    "index.html": "/todo-for-yoon/index.html",
+    "static/css/main.1d449fb4.chunk.css.map": "/todo-for-yoon/static/css/main.1d449fb4.chunk.css.map",
+    "static/js/2.a6ba30e3.chunk.js.LICENSE.txt": "/todo-for-yoon/static/js/2.a6ba30e3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.50283845.js",
+    "static/js/2.a6ba30e3.chunk.js",
+    "static/css/main.1d449fb4.chunk.css",
+    "static/js/main.385d821a.chunk.js"
+  ]
+}
